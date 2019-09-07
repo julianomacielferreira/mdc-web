@@ -4,7 +4,7 @@ This is an implementation of the [Material Design and Material Components for th
 
 ## How to Install and Run
 
-1. check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):
+**1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
 
 ```bash
 $ node -v
@@ -14,13 +14,13 @@ $ node -v
 $ npm -v
 ```
 
-2. In the project root directory install all the dependencies and libs:
+**2. In the project root directory install all the dependencies and libs:**
 
 ```bash
 $ npm install
 ```
 
-3. Start the webpack-dev-server:
+**3. Start the webpack-dev-server:**
 
 ```bash
 $ npm run start
@@ -32,4 +32,4 @@ $ npm run start
 $ npm run build
 ```
 
-4. Access it your browser [http://localhost:8080/](http://localhost:8080/).
+**4. Access it your browser [http://localhost:8080/](http://localhost:8080/).**
