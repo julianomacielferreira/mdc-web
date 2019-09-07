@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@material/button": "^1.0.1",
+    "@material/ripple": "^1.0.1",
     "@material/textfield": "^1.0.1"
   }
 }
