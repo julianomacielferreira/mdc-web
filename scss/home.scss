@@ -1,9 +1,15 @@
 @import "./common";
 @import "@material/drawer/mdc-drawer";
 @import "@material/list/mdc-list";
+@import "@material/image-list/mdc-image-list";
 
 .home {
   display: flex;
+}
+
+.product-list {
+  @include mdc-image-list-standard-columns(4);
+  overflow: auto;
 }
 
 .shrine-logo-drawer {
