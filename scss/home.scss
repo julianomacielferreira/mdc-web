@@ -12,6 +12,18 @@
 .product-list {
   @include mdc-image-list-standard-columns(4);
   overflow: auto;
+
+  .mdc-image-list__supporting {
+    justify-content: center;
+  }
+
+  .mdc-image-list__item {
+    padding: 1-px;
+  }
+
+  .mdc-image-list__label {
+    @include mdc-typography(subtitle2);
+  }
 }
 
 .shrine-logo-drawer {
