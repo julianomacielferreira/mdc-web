@@ -50,3 +50,17 @@
     @include mdc-states-activated(#ffffff);
   }
 }
+
+.shrine-select-item-divider {
+  display: block;
+  border-bottom-color: #eaa4a4;
+  border-bottom-width: 2px;
+  width: 50px;
+  position: relative;
+  top: -8px;
+}
+
+// This needs 2-class specificity to override MDC Drawer styles
+.shrine-drawer .shrine-select-item-divider {
+  margin: 0 auto;
+}
