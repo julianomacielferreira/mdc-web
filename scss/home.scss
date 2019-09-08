@@ -3,6 +3,7 @@
 @import "@material/list/mdc-list";
 @import "@material/image-list/mdc-image-list";
 @import "@material/ripple/mixins";
+@import "@material/typography/mdc-typography";
 
 .home {
   display: flex;
@@ -24,6 +25,8 @@
 .shrine-title {
   text-align: center;
   margin: 5px auto;
+
+  @include mdc-typography(headline6);
 }
 
 .shrine-drawer {
