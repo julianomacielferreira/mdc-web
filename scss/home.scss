@@ -4,6 +4,7 @@
 @import "@material/image-list/mdc-image-list";
 @import "@material/ripple/mixins";
 @import "@material/typography/mdc-typography";
+@import "@material/elevation/mdc-elevation";
 
 .home {
   display: flex;
@@ -39,6 +40,14 @@
   margin: 5px auto;
 
   @include mdc-typography(headline6);
+}
+
+.shrine-body {
+  @include mdc-elevation(4);
+
+  display: block;
+  overflow: auto;
+  z-index: 0; // Elevate over the drawer
 }
 
 .shrine-drawer {
