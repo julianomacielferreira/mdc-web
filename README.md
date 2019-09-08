@@ -4,19 +4,23 @@ This is an implementation of the [Material Design and Material Components for th
 
 ## How to Install and Run
 
-- First check if you have NodeJS installed:
+**1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
 
 ```bash
 $ node -v
 ```
 
-- In the project root directory:
+```bash
+$ npm -v
+```
+
+**2. In the project root directory install all the dependencies and libs:**
 
 ```bash
 $ npm install
 ```
 
-- Start the webpack-dev-server:
+**3. Start the webpack-dev-server:**
 
 ```bash
 $ npm run start
@@ -28,4 +32,6 @@ $ npm run start
 $ npm run build
 ```
 
-- And then access it your browser [http://localhost:8080/](http://localhost:8080/).
+**4. Access it your browser [http://localhost:8080/](http://localhost:8080/).**
+
+- Type any valid credentials on the login form and click Next button.

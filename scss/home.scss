@@ -1,5 +1,26 @@
 @import "./common";
+@import "@material/drawer/mdc-drawer";
+@import "@material/list/mdc-list";
+@import "@material/image-list/mdc-image-list";
 
 .home {
   display: flex;
+}
+
+.product-list {
+  @include mdc-image-list-standard-columns(4);
+  overflow: auto;
+}
+
+.shrine-logo-drawer {
+  display: block;
+  width: 48px;
+  padding: 40px 0 0;
+  margin: 0 auto;
+  fill: currentColor;
+}
+
+.shrine-title {
+  text-align: center;
+  margin: 5px auto;
 }
