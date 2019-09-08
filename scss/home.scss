@@ -11,9 +11,10 @@
 }
 
 .product-list {
-  @include mdc-image-list-standard-columns(4);
+  @include mdc-image-list-masonry-columns(4);
   overflow: auto;
-
+  padding: 80px 100px 0;
+  
   .mdc-image-list__supporting {
     justify-content: center;
   }
