@@ -35,3 +35,8 @@ $ npm run build
 **4. Access it your browser [http://localhost:8080/](http://localhost:8080/).**
 
 - Type any valid credentials on the login form and click Next button.
+
+# License
+
+Please see the [license
+agreement](https://github.com/julianomacielferreira/mdc-web-tutorial/blob/master/LICENSE).
