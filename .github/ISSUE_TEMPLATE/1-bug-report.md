@@ -36,15 +36,6 @@ Please create and share minimal reproduction of the issue.
 -->
 <!-- ✍️--> ...
 
-<!--
-If StackBlitz is not suitable for reproduction of your issue, please create a minimal GitHub repository with the reproduction of the issue.
-A good way to make a minimal reproduction is to create a new app via `ng new repro-app` and add the minimum possible code to show the problem. 
-Share the link to the repo below along with step-by-step instructions to reproduce the problem, as well as expected and actual behavior.
-
-Issues that don't have enough info and can't be reproduced will be closed.
-
-You can read more about issue submission guidelines here: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-submitting-an-issue
--->
 
 ## 🔥 Exception or Error
 <pre><code>
@@ -56,9 +47,8 @@ You can read more about issue submission guidelines here: https://github.com/ang
 
 ## 🌍  Your Environment
 
-**Angular Version:**
+**Version:**
 <pre><code>
-<!-- run `ng version` and paste output below -->
 <!-- ✍️-->
 
 </code></pre>
