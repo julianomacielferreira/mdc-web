@@ -2,16 +2,6 @@
 
 This is an implementation of the [Material Design and Material Components for the Web Tutorial](https://material.io/collections/developer-tutorials/#web).
 
-# References
-
-- Material Design&trade;: [https://material.io/design/](https://material.io/design/)
-
-- Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
-
-- Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
-
-- Babel loader for webpack: [https://github.com/babel/babel-loader](https://github.com/babel/babel-loader)
-
 ## How to Install and Run
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
@@ -50,6 +40,16 @@ $ npm run build
 
 Please see the [license
 agreement](https://github.com/julianomacielferreira/mdc-web-tutorial/blob/master/LICENSE).
+
+# References
+
+- Material Design&trade;: [https://material.io/design/](https://material.io/design/)
+
+- Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
+
+- Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
+
+- Babel loader for webpack: [https://github.com/babel/babel-loader](https://github.com/babel/babel-loader)
 
 # Screenshots
 
