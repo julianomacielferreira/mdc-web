@@ -2,7 +2,7 @@
 
 This is an implementation of the [Material Design and Material Components for the Web Tutorial](https://material.io/collections/developer-tutorials/#web).
 
-## How to Install and Run
+## Install Dependencies
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
 
@@ -20,19 +20,23 @@ $ npm -v
 $ npm install
 ```
 
-**3. Start the webpack-dev-server:**
+## Start webpack-dev-server
+
+**1. Run the following command:**
 
 ```bash
 $ npm run start
 ```
 
-- Or generate all the bundle:
+**Or to generate all the bundle:**
 
 ```bash
 $ npm run build
 ```
 
-**4. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
+The files will be created in the folder **/dist**.
+
+**2. And then access [http://localhost:8080/](http://localhost:8080/) on your browser (it's setup to open automatically).**
 
 - Type any valid credentials on the login form and click Next button.
 
