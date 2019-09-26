@@ -40,10 +40,11 @@ The files will be created in the folder **/dist**.
 
 - Type any valid credentials on the login form and click Next button.
 
-# License
+# Screenshots
 
-Please see the [license
-agreement](https://github.com/julianomacielferreira/mdc-web-tutorial/blob/master/LICENSE).
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
 
 # References
 
@@ -55,8 +56,7 @@ agreement](https://github.com/julianomacielferreira/mdc-web-tutorial/blob/master
 
 - Babel loader for webpack: [https://github.com/babel/babel-loader](https://github.com/babel/babel-loader)
 
-# Screenshots
+# License
 
-![](assets/screenshots/1.png)
-![](assets/screenshots/2.png)
-![](assets/screenshots/3.png)
+Please see the [license
+agreement](https://github.com/julianomacielferreira/mdc-web-tutorial/blob/master/LICENSE).
